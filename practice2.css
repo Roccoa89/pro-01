@@ -1,0 +1,91 @@
+/*
+* {
+	outline: 1px solid red !important;
+}
+/*  THIS IS ONLY USED FOR HELPING THE PROGRAMMER AS A TOOL!!*/
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #a8a8a8;
+	font-family: fantasy;
+}
+
+.red {
+	padding: 25% 25%;
+	margin: 25% 25%;
+	height: 15%;
+	width: 15%;
+	background-color: maroon;
+}
+
+.blue {
+	padding: 25% 25%;
+	margin: 25% 25%;
+	height: 15%;
+	width: 15%;
+	background-color: navy;
+}
+
+.green {
+	padding: 25% 25%;
+	margin: 25% 25%;
+	height: 15%;
+	width: 15%;
+	background-color: olive;
+}
+
+.name-logo {
+	display: flex;
+}
+
+.logo {
+	height: 10%;
+	width: 10%;
+}
+
+.name {
+	width: 100%;
+	text-align: right;
+	font-size: 170%;
+}
+
+.sub-name {
+	font-size: 80%;
+}
+
+.line {
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.main-line {
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	background-color: #484848;
+}
+
+.featured {
+	width: 40%;
+}
+
+.apps {
+	text-align: center;
+	font: 110%;
+}
+
+.sub-pictures {
+	font-size: 70%;
+}
+
+.sub-tools {
+	font-size: 70%;
+}
+
+.sub-games {
+	font-size: 70%;
+}
